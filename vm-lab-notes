@@ -3,4 +3,4 @@
 # Ubuntu VM Lab
 - Installed Ubuntu Desktop on VirtualBox
 - Practiced basic linux commands such as ls, cd, mkdir, nano
-- Installed and configurated git hub to my VM
+- Installed and configurated git hub to my VM, using SSH keys to easily commit to my github
